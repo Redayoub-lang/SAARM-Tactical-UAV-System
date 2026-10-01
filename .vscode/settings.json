@@ -5,5 +5,6 @@
         "*.qml": "qml",
         "*.h": "cpp",
         "*.cpp": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

@@ -1,6 +1,6 @@
 #pragma once
-#include
-#include
+#include <QObject>
+#include <QString>
 
 class TacticalC2Server : public QObject
 {
