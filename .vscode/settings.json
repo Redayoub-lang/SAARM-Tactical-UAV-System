@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.cppStandard": "c++17",
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "*.qml": "qml",
+        "*.h": "cpp",
+        "*.cpp": "cpp"
+    }
+}
